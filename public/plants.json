@@ -1,0 +1,98 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light. Perfect for beginners and busy plant parents. Known for its striking upright leaves with yellow edges.",
+    "image": "https://www.thespruce.com/thmb/JToiCM2g8ssRFBOyIvvB_G5pMDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/snake-plant-care-overview-1902772-04-d3990a1d0e1d4202a824e929abb12fc1-349b52d646f04f31962707a703b94298.jpeg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Monstera Deliciosa",
+    "category": "Tropical",
+    "price": 32,
+    "rating": 4.9,
+    "availableStock": 8,
+    "careLevel": "Medium",
+    "description": "Also known as Swiss Cheese Plant, this stunning tropical beauty features iconic split leaves. A statement piece that adds dramatic flair to any room.",
+    "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=500&h=500&fit=crop",
+    "providerName": "Tropical Paradise"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Pothos Golden",
+    "category": "Hanging Plant",
+    "price": 15,
+    "rating": 4.7,
+    "availableStock": 20,
+    "careLevel": "Easy",
+    "description": "A versatile trailing plant with heart-shaped golden-green leaves. Excellent for hanging baskets or shelves. Nearly indestructible and perfect for beginners.",
+    "image": "https://images.unsplash.com/photo-1591958911259-bee2173bdccc?w=500&h=500&fit=crop",
+    "providerName": "Green Haven"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Statement Plant",
+    "price": 45,
+    "rating": 4.6,
+    "availableStock": 5,
+    "careLevel": "Hard",
+    "description": "A trendy statement plant with large, violin-shaped leaves. Creates an impressive focal point in modern interiors. Requires consistent care and bright indirect light.",
+    "image": "https://plantdrop.co.uk/cdn/shop/files/PlantDrop-25-4-242870-Credit-TomGriffiths-Tomgphoto.jpg?v=1749839418&width=1080",
+    "providerName": "Botanical Elegance"
+  },
+  {
+    "plantId": 5,
+    "plantName": "Peace Lily",
+    "category": "Air Purifier",
+    "price": 22,
+    "rating": 4.8,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "Elegant white blooms and dark green leaves make this a classic choice. Excellent air purifier that removes toxins. Tolerates low light conditions.",
+    "image": "https://cdn11.bigcommerce.com/s-fr32feerow/images/stencil/832x750/uploaded_images/peace-lily-01.jpg?t=1483630233",
+    "providerName": "Pure Air Plants"
+  },
+  {
+    "plantId": 6,
+    "plantName": "Succulent Garden Mix",
+    "category": "Succulent",
+    "price": 28,
+    "rating": 4.9,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A beautiful assortment of colorful succulents in a decorative planter. Low maintenance and drought-tolerant. Perfect for sunny windowsills and modern decor.",
+    "image": "https://images.unsplash.com/photo-1459156212016-c812468e2115?w=500&h=500&fit=crop",
+    "providerName": "Desert Blooms"
+  },
+  {
+    "plantId": 7,
+    "plantName": "Rubber Plant",
+    "category": "Statement Plant",
+    "price": 35,
+    "rating": 4.7,
+    "availableStock": 7,
+    "careLevel": "Medium",
+    "description": "Bold, glossy burgundy leaves create a striking visual impact. Fast-growing and air-purifying. Adapts well to various light conditions.",
+    "image": "https://www.leafenvy.co.uk/cdn/shop/files/RubberPlantFamily-014.jpg?v=1751962727",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 8,
+    "plantName": "Spider Plant",
+    "category": "Hanging Plant",
+    "price": 16,
+    "rating": 4.6,
+    "availableStock": 18,
+    "careLevel": "Easy",
+    "description": "Graceful arching leaves with white stripes and baby plantlets. One of the easiest plants to grow and propagate. Excellent for removing air pollutants.",
+    "image": "https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=500&h=500&fit=crop",
+    "providerName": "Green Haven"
+  }
+]
